@@ -17,7 +17,7 @@ Pytorch implementation of our method for IEEE ICIP 2022 paper: "MMGL: Multi-Scal
 With large-scale well-labeled datasets, deep learning has shown significant success in medical image segmentation. However, it is challenging to acquire abundant annotations in clinical practice due to extensive expertise requirements and costly labeling efforts. Recently, contrastive learning has shown a strong capacity for visual representation learning on unlabeled data, achieving impressive performance rivaling supervised learning in many domains. In this work, we propose a novel multi-scale multi-view global-local contrastive learning (MMGL) framework to thoroughly explore global and local features from different scales and views for robust contrastive learning performance, thereby improving segmentation performance with limited annotations. Extensive experiments on the MM-WHS dataset demonstrate the effectiveness of MMGL framework on semi-supervised cardiac image segmentation, outperforming the state-of-the-art contrastive learning methods by a large margin.
 
 <p align="center">
-<img src="https://github.com/jacobzhaoziyuan/LE-UDA/blob/main/assets/archi_final.png" width="800">
+<img src="https://github.com/jacobzhaoziyuan/MMGL/blob/main/assets/archi_mmgl.png" width="800">
 </p>
 
 

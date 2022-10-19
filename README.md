@@ -5,7 +5,7 @@
 # MMGL: Multi-Scale Multi-View Global-Local Contrastive learning for Semi-supervised Cardiac Image Segmentation
 
 [![MICCAI2022](https://img.shields.io/badge/arXiv-2207.01883-blue)](https://arxiv.org/abs/2207.01883)
-[![MICCAI2022](https://img.shields.io/badge/Conference-ICIP2022-green)](https://ieeexplore.ieee.org/document/9919170)
+[![MICCAI2022](https://img.shields.io/badge/Conference-ICIP2022-green)](https://ieeexplore.ieee.org/document/9897591)
 
 
 
